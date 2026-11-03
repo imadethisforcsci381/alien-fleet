@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "unity-editor-mcp": {
+      "type": "stdio",
+      "command": "C:\\Users\\hyper\\AppData\\Local\\Unity\\bin\\unity.exe",
+      "args": [
+        "mcp",
+        "--project-path",
+        "C:\\Users\\hyper\\Downloads\\Space-Invaders-3D-main\\Space-Invaders-3D-main"
+      ]
+    }
+  }
+}
